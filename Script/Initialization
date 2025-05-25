@@ -4,7 +4,7 @@ create database and schemas
 ================================================
 
 Script:
-	This script will create database DataWarehouse after dropting it if is exists and
+	This script will create database DataWarehouse after dropting it if it exists and
 	it will create 3 schemas  with name 'bronz', 'silver' and 'gold'.
 
 Warning: 
